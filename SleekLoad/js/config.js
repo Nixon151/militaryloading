@@ -79,7 +79,6 @@ var l_bgImages = [
 	"military5.jpg",
 	"military6.jpg",
 	"military7.jpg",
-	"military8.jpg",
 	"military9.jpg",
 	"military10.jpg",
 	"military11.jpg",
